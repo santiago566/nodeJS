@@ -1,0 +1,19 @@
+{
+  "name": "holam",
+  "version": "1.0.0",
+  "description": "ejercicio prueba de nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiago566/Ejemplo_Node.js.git"
+  },
+  "author": "Santiago  Pineda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiago566/Ejemplo_Node.js/issues"
+  },
+  "homepage": "https://github.com/santiago566/Ejemplo_Node.js#readme"
+}
